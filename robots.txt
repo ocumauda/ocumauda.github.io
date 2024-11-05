@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocumauda.github.io/EAU/sitemap_index.txt
+Sitemap: https://ocumauda.github.io/XWY/sitemap_index.txt
+Sitemap: https://ocumauda.github.io/cVJ/sitemap_index.txt
+Sitemap: https://ocumauda.github.io/vTI/sitemap_index.txt
